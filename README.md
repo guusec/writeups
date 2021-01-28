@@ -1,2 +1,2 @@
-# writeups
-Some write-ups I've done ;^)
+# Hello, hi.
+Just some write-ups I've done ;^)
